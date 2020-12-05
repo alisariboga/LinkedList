@@ -4,6 +4,7 @@ public class App {
        linkedList.add("Ali");
        linkedList.add("Can");
        linkedList.add("Sifa");
+       linkedList.display();
 
     }
 }
